@@ -24,6 +24,10 @@ To run the app, start the rake server:
     ```
 Then, open a web browser and navigate to http://localhost:9292/ to see the home page (though not connected to the front-end)
 
+## ERD
+This is a sample application for managing product reviews. The following is an Entity Relationship Diagram (ERD) for the database schema used in this application:
+
+![ERD - Diagram](https://github.com/CKimaru23/product-review/blob/main/ERD.png)
 
 
 ## Models
