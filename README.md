@@ -1,4 +1,4 @@
-### Product Review App
+# Product Review App
 This is a simple app for reviewing products. Users can review products they've used and see reviews from other users.
 
 ## Installation
